@@ -1,6 +1,6 @@
 # Titanic Exploratory Data Analysis (EDA)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnowArchitect60/EDA-with-ML-FNRI/blob/main/FNRI_EDA_and_ML_Titanic.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnowArchitect60/EDA-with-ML/blob/main/EDA_and_ML_Titanic.ipynb)
 
 This repository contains the supplementary notebook for the lecture on **Exploratory Data Analysis (EDA)**.
 
@@ -36,12 +36,12 @@ uv sync
 
 ```
 .
-├── EDA_and_ML_Titanic.ipynb
 ├── .gitignore
 ├── .python-version
+├── EDA_and_ML_Titanic.ipynb
 ├── pyproject.toml
-├── uv.lock
-└── README.md
+├── README.md
+└── uv.lock
 ```
 
 ---
