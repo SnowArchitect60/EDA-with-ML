@@ -35,7 +35,7 @@ uv sync
 ## Repository Structure
 
 ```
-.
+EDA-with-ML
 ├── .gitignore
 ├── .python-version
 ├── EDA_and_ML_Titanic.ipynb
@@ -49,6 +49,3 @@ uv sync
 ## License
 
 CC BY 4.0. This repository is intended for educational purposes.
-
-```
-```
