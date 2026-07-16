@@ -1,4 +1,3 @@
-````markdown
 # Titanic Exploratory Data Analysis (EDA)
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnowArchitect60/EDA-with-ML-FNRI/blob/main/FNRI_EDA_and_ML_Titanic.ipynb)
